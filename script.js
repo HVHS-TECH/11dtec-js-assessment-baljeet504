@@ -1,2 +1,2 @@
 /***Variables***/
-var User= naem
+var User= Name
