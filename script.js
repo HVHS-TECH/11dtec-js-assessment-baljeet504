@@ -1,1 +1,2 @@
 /***Variables***/
+var User= naem
