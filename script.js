@@ -1,7 +1,6 @@
 /***Variables***/
-var price1 = 5
-
-
+var price;
+var name;
 
 
 
