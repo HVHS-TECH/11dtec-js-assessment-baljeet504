@@ -1,6 +1,6 @@
 /***Variables***/
 var price;
-var name;
+var ;
 
 
 
