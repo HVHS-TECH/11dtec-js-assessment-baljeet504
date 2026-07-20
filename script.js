@@ -3,7 +3,7 @@ var userName;
 
 
 alert("wellcome to Ryu's ramen")
-userName =
+userName = prompt()
 
 /***main code ***/
  
