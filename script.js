@@ -2,8 +2,8 @@
 var userName;
 
 
-alert("whellcome ")
-
+alert("wellcome to Ryu's ramen")
+userName
 
 /***main code ***/
  
