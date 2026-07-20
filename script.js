@@ -2,7 +2,7 @@
 var userName;
 
 
-alert("")
+alert("whellcome ")
 
 
 /***main code ***/
