@@ -9,4 +9,5 @@ var food;
 alert("wellcome to Ryu's ramen");
 userName = prompt("what is your name");
 alert("Hello " +userName+ " i will take youre order");
-age = prompt("would you like dimsum,Ramen or something like that")
+food = prompt("would you like dimsum,Ramen or something like that")
+
