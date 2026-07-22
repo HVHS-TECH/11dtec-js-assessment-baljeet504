@@ -1,6 +1,6 @@
 /***Variables***/
 var userName;
-var age;
+var food;
 
 
 
@@ -9,4 +9,4 @@ var age;
 alert("wellcome to Ryu's ramen");
 userName = prompt("what is your name");
 alert("Hello " +userName+ " i will take youre order");
-age = prompt("how old are you")
+age = prompt("would you like dimsum,Ramen or something like that")
