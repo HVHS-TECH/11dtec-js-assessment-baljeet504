@@ -11,6 +11,5 @@ userName = prompt("what is your name");
 alert("Hello " +userName+ " i will take youre order");
 
 
-document.getElementById('order').addEventListener('click', function() {
-  food = prompt("would you like dimsum,Ramen or something like that")
-});
+document.getElementById('order').addEventListener('click', function () {
+  const food = prompt('Would you like dimsum, ramen, or something like that?');
