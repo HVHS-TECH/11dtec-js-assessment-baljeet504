@@ -15,7 +15,7 @@ alert("Hello " +userName+ " i will take youre order");
  alert("that will be 12bucks please pay at the counter");
  money = prompt("please insert money");
  if(money == "12"){
-    then alert("thank you for your payment");
+     alert("thank you for your payment");
     if(money == "11"){
         alert("you need more money");
     }if(money == "10"){
