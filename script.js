@@ -14,11 +14,13 @@ alert("Hello " +userName+ " i will take youre order");
  alert("that will be 12bucks please pay at the counter");
  if(food == "dimsum"){
     alert("thank you for ordering dimsum");
-    if(food == "ramen"){
-        alert("thank you for ordering ramen");
-        if(food == "porkbelly"){
-            alert("thank you for ordering porkbelly");
-            if(food == "chicken feet"){
-                alert("thank you for ordering chicken feet");
-            }
-        }
+ }
+ else if(food == "ramen"){
+    alert("thank you for ordering ramen");
+ }
+ else if(food == "porkbelly"){
+    alert("thank you for ordering porkbelly");
+ }
+ else if(food == "chicken feet"){
+    alert("thank you for ordering chicken feet");
+ }
