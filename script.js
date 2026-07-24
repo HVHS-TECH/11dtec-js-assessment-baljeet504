@@ -39,13 +39,3 @@ alert("Hello " +userName+ " i will take youre order");
     }if(money == "1"){
         alert("you need more money");
     }
- }
- else if(food == "ramen"){
-    alert("thank you for ordering ramen");
- }
- else if(food == "porkbelly"){
-    alert("thank you for ordering porkbelly");
- }
- else if(food == "chicken feet"){
-    alert("thank you for ordering chicken feet");
- }
