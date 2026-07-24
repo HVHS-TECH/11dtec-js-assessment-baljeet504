@@ -11,4 +11,4 @@ userName = prompt("what is your name");
 alert("Hello " +userName+ " i will take youre order");
  food = prompt("we currently have dimsum, ramen, porkbelly and chicken feet");
  alert("so you would like " +food+ " is that correct?");
- 
+ alert("that will be 12bucks please pay at the counter");
