@@ -13,9 +13,32 @@ alert("Hello " +userName+ " i will take youre order");
  food = prompt("we currently have dimsum, ramen, porkbelly and chicken feet");
  alert("so you would like " +food+ " is that correct?");
  alert("that will be 12bucks please pay at the counter");
- if(food == "d"){
- if(food == "dimsum"){
-    alert("thank you for ordering dimsum");
+ money = prompt("please insert money");
+ if(money == "12"){
+    then alert("thank you for your payment");
+    if(money == "11"){
+        alert("you need more money");
+    }if(money == "10"){
+        alert("you need more money");
+    }if(money == "9"){
+        alert("you need more money");
+    }if(money == "8"){
+        alert("you need more money");
+    }if(money == "7"){
+        alert("you need more money");
+    }if(money == "6"){
+        alert("you need more money");
+    }if(money == "5"){
+        alert("you need more money");
+    }if(money == "4"){
+        alert("you need more money");
+    }if(money == "3"){
+        alert("you need more money");
+    }if(money == "2"){
+        alert("you need more money");
+    }if(money == "1"){
+        alert("you need more money");
+    }
  }
  else if(food == "ramen"){
     alert("thank you for ordering ramen");
